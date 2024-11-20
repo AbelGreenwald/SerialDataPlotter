@@ -1,5 +1,5 @@
 #include "mainwindow.h"
-#include <QApplication>
+#include "QtWidgets/QApplication"
 #include "serialdatareader.h"
 
 int main(int argc, char *argv[])
